@@ -1,0 +1,4 @@
+This is a dummy file. 
+
+Please submit a download request at https://www.omim.org/downloads and then
+replace this file with the actual file.
